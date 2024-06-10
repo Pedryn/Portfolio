@@ -60,7 +60,7 @@ const Projects: React.FC<Props> = ({ toggleTheme }) => {
 
             <ContainerAllProjects>
                 {ProjectsData.slice(0, teste).map((item) => {
-                    const { id, img, title, description, tool, link, github } = item;
+                    const { id, img, title, description, tool, github } = item;
                     return (
                         <Project key={id} data-aos="zoom-in">
                             <BoxImage>
@@ -71,7 +71,6 @@ const Projects: React.FC<Props> = ({ toggleTheme }) => {
                                 <TitleProject>{title}</TitleProject>
                                 <SubContainerTitle>
                                     <a target="blank" href={github}><AiFillGithub color={colors.text} size={25} /></a>
-                                    <a target="blank" href={link}><FiExternalLink color={colors.text} size={25} /></a>
                                 </SubContainerTitle>
                             </ContainerTitle>
 
