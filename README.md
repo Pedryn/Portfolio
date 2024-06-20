@@ -55,7 +55,6 @@
 <p align="center"><img src="/src/assets/eu.jpg" width="20%"></p>
 <p align="justify">Cursando 3 semestre de Desenvolvimento de Sotware Multiplataforma na FATEC de São José dos Campos.</p>
 <p align="justify">Apesar de nunca ter atuado na área de tecnologia de fato, eu tenho experiencia com projetos do API (Aprendizado por Projeto Integrado), com empresas como a Vanguarda e a YOUTAN na qual fiz projetos com eles nos projetos COVIDINHOS e YOUTAN respectivamente.</p>
-
 <p align="center">• <a href="https://www.linkedin.com/in/pedro-henrique-de-souza-128484214/">LinkedIn</a> • <a href="https://github.com/Pedryn">GitHub</a> •</p>
 <hr>
 <div class="semestre1">
@@ -63,7 +62,6 @@
 <h3>COVIDINHOS</h3>
 <h4>1º Semestre • 1/2023 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://g1.globo.com/sp/vale-do-paraiba-regiao/">TV VANGUARDA</a></p>
-<p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/granja_futuro_img.png" widht="20%"></img>
 <p align="justify">É um site focado em dados relacionados a Covid-19, seus efeitos e seus sintômas prolongados, ou Covid longa de acordo com a Organização Mundial da Saúde (OMS). Este projeto é destinado à usuários jornalistas da rede Vanguarda com a necessidade de um site de fácil acesso à dados e informações sobre a Covid longa na região do Vale do Paraíba, visando criar novas matérias para o jornal.</p>
 <p align="justify">O site possui graficos, com indicativos com informações de algumas cidades do vale do paraíba como São José dos Campos, Caçapava, Taubaté e Jacareí com dados de sintomas ou consequencias da covid longa.</p>
 <br>
