@@ -27,7 +27,7 @@ const About: React.FC<Props> = ({ toggleTheme }) => {
                     Comecei minha jornada na programação em 2022, quando me interessei por pyton no final do meu ensino médio, de lá pra cá descobri sou um apaixonado por tecnologia e por desenvolvimento de software.
                 </Description>
                 <Description>
-                    Atualmente estou estudando Tecnologias como: Java, Spring Boot, TypeScript, React, MongoDB entre outras tecnologias que uso para criar aplicações web e Back End de alto nível e valor.
+                    Atualmente estou estudando Tecnologias como: React Native, C, Arduíno, Firebase entre outras tecnologias que uso para criar aplicações web e Back End de alto nível e valor.
                 </Description>
                 <Description>
                     Meu foco é aprender novas coisas e aprimorar ainda mais as habilidades que possuo, gosto sempre de estar em constante aprendizado e evoluindo dia após dia, e agregando muito valor.

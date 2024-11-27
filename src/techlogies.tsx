@@ -55,6 +55,30 @@ const TechlogiesData = [
         "id": 14,
         "name": "Linux"
     },
+    {
+        "id": 15,
+        "name": "React Native"
+    },
+    {
+        "id": 16,
+        "name": "Neo4j"
+    },
+    {
+        "id": 17,
+        "name": "Cassandra"
+    },
+    {
+        "id": 18,
+        "name": "Firebase"
+    },
+    {
+        "id": 19,
+        "name": "C"
+    },
+    {
+        "id": 20,
+        "name": "Arduino"
+    },
     
 ]
 
