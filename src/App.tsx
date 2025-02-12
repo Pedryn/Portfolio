@@ -12,6 +12,9 @@ import Technologies from './components/Technologies';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Hardskill from './components/HardsSkill';
+import Softskill from './components/SoftSkill';
+
 
 function App() {
   const [theme, setTheme] = usePersistedState<DefaultTheme>('theme', light);
@@ -28,6 +31,8 @@ function App() {
         <About toggleTheme={toggleTheme} />
         <Technologies toggleTheme={toggleTheme} />
         <Projects toggleTheme={toggleTheme} />
+        <Hardskill toggleTheme={toggleTheme} />
+        <Softskill toggleTheme={toggleTheme} />
         <Contact toggleTheme={toggleTheme} />
       </div>
       <Footer toggleTheme={toggleTheme} />
